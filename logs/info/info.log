@@ -1,0 +1,100 @@
+2026-04-07 18:45:55,173 [INFO ] [main] - Connecting to database...
+2026-04-07 18:45:55,422 [INFO ] [main] - Database created successfully
+2026-04-07 18:45:55,431 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:45:55,440 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:45:55,441 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:45:55,442 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:45:55,444 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:45:55,454 [INFO ] [main] - All employees selected successfully!!!
+2026-04-07 18:45:55,458 [INFO ] [main] - Employee update successfully with id 1
+2026-04-07 18:45:55,461 [INFO ] [main] - All employees selected successfully!!!
+2026-04-07 18:45:55,463 [INFO ] [main] - Employee delete successfully with id 3
+2026-04-07 18:45:55,464 [INFO ] [main] - All employees selected successfully!!!
+2026-04-07 18:46:11,242 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:11,506 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:11,583 [INFO ] [main] - Database created successfully
+2026-04-07 18:46:11,594 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:46:11,597 [INFO ] [main] - Employee delete successfully with id 1
+2026-04-07 18:46:11,608 [ERROR] [main] - Invalid employee id in delete employee - -1
+2026-04-07 18:46:11,612 [INFO ] [main] - Employee delete successfully with id 1
+2026-04-07 18:46:11,626 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:46:11,637 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:11,712 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:11,792 [INFO ] [main] - Employee with id -1 not found
+2026-04-07 18:46:11,794 [INFO ] [main] - Employee with id 1 not found
+2026-04-07 18:46:11,797 [INFO ] [main] - Database created successfully
+2026-04-07 18:46:11,800 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:46:11,814 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:46:11,815 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:11,883 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:11,950 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:46:11,959 [ERROR] [main] - Failed adding employee - ПОМИЛКА: новий рядок для відношення "employees" порушує перевірне обмеження перевірку "employees_age_check"
+  Detail: Помилковий рядок містить (2, S, -1, S, 0).
+2026-04-07 18:46:11,971 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:46:11,972 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:12,041 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:12,125 [INFO ] [main] - Database created successfully
+2026-04-07 18:46:12,141 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:46:12,143 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:12,245 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:12,373 [INFO ] [main] - All employees selected successfully!!!
+2026-04-07 18:46:12,384 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:46:12,386 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:12,466 [INFO ] [main] - Connecting to database...
+2026-04-07 18:46:12,578 [INFO ] [main] - Database created successfully
+2026-04-07 18:46:12,583 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:46:12,586 [INFO ] [main] - Employee update successfully with id 1
+2026-04-07 18:46:12,587 [ERROR] [main] - Invalid employee id in update employee - -1
+2026-04-07 18:46:12,603 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:48:44,863 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:45,097 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:45,173 [INFO ] [main] - Database created successfully
+2026-04-07 18:48:45,183 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:48:45,186 [INFO ] [main] - Employee delete successfully with id 1
+2026-04-07 18:48:45,197 [ERROR] [main] - Invalid employee id in delete employee - -1
+2026-04-07 18:48:45,199 [INFO ] [main] - Employee delete successfully with id 1
+2026-04-07 18:48:45,218 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:48:45,230 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:45,315 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:45,412 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:48:45,420 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:48:45,422 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:45,488 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:45,562 [INFO ] [main] - Employee with id -1 not found
+2026-04-07 18:48:45,564 [INFO ] [main] - Employee with id 1 not found
+2026-04-07 18:48:45,566 [INFO ] [main] - Database created successfully
+2026-04-07 18:48:45,572 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:48:45,591 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:48:45,593 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:45,693 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:45,793 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:48:45,808 [ERROR] [main] - Failed adding employee - ПОМИЛКА: новий рядок для відношення "employees" порушує перевірне обмеження перевірку "employees_age_check"
+  Detail: Помилковий рядок містить (2, S, -1, S, 0).
+2026-04-07 18:48:45,826 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:48:45,827 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:45,920 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:46,023 [INFO ] [main] - Database created successfully
+2026-04-07 18:48:46,043 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:48:46,045 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:46,121 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:46,220 [INFO ] [main] - All employees selected successfully!!!
+2026-04-07 18:48:46,232 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:48:46,233 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:46,316 [INFO ] [main] - Connecting to database...
+2026-04-07 18:48:46,413 [INFO ] [main] - Database created successfully
+2026-04-07 18:48:46,416 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:48:46,418 [INFO ] [main] - Employee update successfully with id 1
+2026-04-07 18:48:46,418 [ERROR] [main] - Invalid employee id in update employee - -1
+2026-04-07 18:48:46,428 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:49:27,929 [INFO ] [main] - Connecting to database...
+2026-04-07 18:49:28,149 [INFO ] [main] - Database created successfully
+2026-04-07 18:49:28,159 [INFO ] [main] - All employees truncated successfully!!!
+2026-04-07 18:49:28,168 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:49:28,170 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:49:28,171 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:49:28,172 [INFO ] [main] - Employee added successfully!!!
+2026-04-07 18:49:28,185 [INFO ] [main] - All employees selected successfully!!!
+2026-04-07 18:49:28,189 [INFO ] [main] - Employee update successfully with id 1
+2026-04-07 18:49:28,192 [INFO ] [main] - All employees selected successfully!!!
+2026-04-07 18:49:28,194 [INFO ] [main] - Employee delete successfully with id 3
+2026-04-07 18:49:28,195 [INFO ] [main] - All employees selected successfully!!!

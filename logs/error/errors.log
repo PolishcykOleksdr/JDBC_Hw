@@ -1,0 +1,8 @@
+2026-04-07 18:46:11,608 [ERROR] [main] - Invalid employee id in delete employee - -1
+2026-04-07 18:46:11,959 [ERROR] [main] - Failed adding employee - ПОМИЛКА: новий рядок для відношення "employees" порушує перевірне обмеження перевірку "employees_age_check"
+  Detail: Помилковий рядок містить (2, S, -1, S, 0).
+2026-04-07 18:46:12,587 [ERROR] [main] - Invalid employee id in update employee - -1
+2026-04-07 18:48:45,197 [ERROR] [main] - Invalid employee id in delete employee - -1
+2026-04-07 18:48:45,808 [ERROR] [main] - Failed adding employee - ПОМИЛКА: новий рядок для відношення "employees" порушує перевірне обмеження перевірку "employees_age_check"
+  Detail: Помилковий рядок містить (2, S, -1, S, 0).
+2026-04-07 18:48:46,418 [ERROR] [main] - Invalid employee id in update employee - -1
